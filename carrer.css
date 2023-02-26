@@ -1,0 +1,145 @@
+.headerbutton {
+    border-color: white;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.headerbutton1 {
+    border-color: white;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+
+.navbar-expand-lg .navbar-nav {
+    margin-left: 5%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: white;
+    font-family: monospace;
+}
+
+.navbar {
+    padding: 0rem !important;
+    width: 101%;
+}
+
+.container-fluid {
+    background-color: black;
+}
+.c32{
+  
+    color: goldenrod;
+    text-decoration: underline;
+}
+.img1{
+    width: 12%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.bodycolor{
+    background: url(https://www.aarnasystems.com/images/SEO-Success-Story.png);
+    height: 70vh;
+}
+.c21{
+color: white;
+font-family: emoji;
+}
+
+
+.c27{
+    font-weight: 800;
+    color: gold;
+    font-size: 22px;
+    margin-top: 5%;
+}
+.c30{
+    margin-top: 9%;
+}
+.c25{
+    margin-bottom: 3%;
+}
+.c28{
+    
+    color: whitesmoke;
+    font-family: monospace;
+    font-weight: 900;
+}
+.c29{
+    margin-left: 70%;
+    color: whitesmoke;
+    font-family: monospace;
+}
+.c31{
+    margin-left: -22px;
+    z-index: 1;
+    color: black;
+}
+.bgcolor1{
+    background-color: aquamarine;
+    font-size: 15px;
+    padding:6px;
+   
+}
+.c32{
+  
+    color: goldenrod;
+    text-decoration: underline;
+}
+.formsize{
+    margin-left: 35%;
+}
+.seen1{
+    color: red;
+    display: none;
+    
+}
+.seen2{
+    color: red;
+    display: block;
+    
+}
+.usercheck{
+    display: none;
+}
+.usercheck1{
+    display: none;
+}
+.error{
+    
+    color: red;
+}    
+.form-group {
+    margin-bottom: 8px !important;
+}
+.btnclass{
+    background-color: burlywood;
+}
+#txtNewInput{
+    text-decoration: line-through;
+}
+.ttt{
+    height: 18px;
+    width: 45px;
+    margin-top: 6px;
+}
+#btnGetCaptcha{
+    width: 18%;
+    margin-left: 75%;
+}
+#textInput{
+    font-size: 15px;
+}
+.modal-content{
+    border: none;
+    border-radius: 0px;
+}
+.c32{
+  
+    color: goldenrod;
+    text-decoration: underline;
+}
+.modal-footer{
+    display: block;
+    background-color: aliceblue;
+}

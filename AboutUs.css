@@ -1,0 +1,20 @@
+.topimg{
+    width: 101%;
+    height: 81vh;
+    opacity: 0.7;
+}
+
+.Our {
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: fangsong;
+    margin-left: 6%;
+    background: -webkit-linear-gradient(rgb(223, 90, 183), rgb(84, 49, 129));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.digit{
+    font-size: 21px;
+    font-family: serif;
+}

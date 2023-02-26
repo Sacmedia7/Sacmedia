@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="163" height="163" viewBox="0 0 163 163">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.226" y1="0.5" x2="0.788" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#de8601"/>
+      <stop offset="1" stop-color="#ff3d97"/>
+    </linearGradient>
+  </defs>
+  <g id="user_I_Card" transform="translate(2.416 2.135)">
+    <circle id="Ellipse_223" data-name="Ellipse 223" cx="81.5" cy="81.5" r="81.5" transform="translate(-2.416 -2.135)"/>
+    <ellipse id="Ellipse_224" data-name="Ellipse 224" cx="66" cy="65.5" rx="66" ry="65.5" transform="translate(13.584 22.865)" fill="url(#linear-gradient)"/>
+    <path id="Icon_awesome-user-circle" data-name="Icon awesome-user-circle" d="M79.5.563a79.5,79.5,0,1,0,79.5,79.5A79.485,79.485,0,0,0,79.5.563Zm0,30.774A28.209,28.209,0,1,1,51.29,59.546,28.21,28.21,0,0,1,79.5,31.336Zm0,110.273a61.428,61.428,0,0,1-46.962-21.862,35.741,35.741,0,0,1,31.575-19.17,7.844,7.844,0,0,1,2.276.353A42.443,42.443,0,0,0,79.5,103.142,42.282,42.282,0,0,0,92.61,100.93a7.843,7.843,0,0,1,2.276-.353,35.741,35.741,0,0,1,31.575,19.17A61.428,61.428,0,0,1,79.5,141.609Z" transform="translate(-0.414 -0.696)" fill="#fcf9ee" stroke="#fcf9ee" stroke-width="1"/>
+  </g>
+</svg>
